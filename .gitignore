@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# Environment Files
+env/
+
+# Python Cache
+__pycache__/

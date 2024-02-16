@@ -1,0 +1,12 @@
+0 apple_pie
+1 bibimbap
+2 cheesecake
+3 dumplings
+4 fish_and_chips
+5 grilled_salmon
+6 hot_dog
+7 ice_cream
+8 lobster_roll_sandwich
+9 orion_rings
+10 pizza
+11 ramen
