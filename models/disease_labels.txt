@@ -1,0 +1,10 @@
+cellulitis
+impetigo
+athlete-foot
+nail-fungus
+ringworm
+cutaneous-larva-migrans
+chickenpox
+shingles
+Lung_Opacity
+Viral Pneumonia
